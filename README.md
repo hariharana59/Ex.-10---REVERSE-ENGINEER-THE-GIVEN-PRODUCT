@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 02.12.2023
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +32,14 @@
 
 ## Input:
 
+![cp0bzlxj](https://github.com/hariharana59/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144980130/fb989c5f-bfba-4180-ab86-9366fd0c8563)
+
 ### Output:
+![Screenshot 2023-12-17 155010](https://github.com/hariharana59/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144980130/439f4bb2-d1e3-4124-b0bd-0f1a7d3ff3ad)
 
 
-### Name:
-### Register Number:
+### Name: Hariharan A
+### Register Number: 23012392
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
